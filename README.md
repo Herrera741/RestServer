@@ -7,5 +7,5 @@ Homework assignment for Mobile App Development course to build REST server appli
 - Oracle jdk 1.8.0_211
 - Kotlin 1.4.10
 - Ktor 1.4.1
-- SQLite3 API for Java
+- DB Browser for SQLite v3.11.2
 - Windows 10
